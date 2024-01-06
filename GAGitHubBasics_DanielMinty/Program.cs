@@ -10,7 +10,7 @@ namespace GAGitHubBasics_DanielMinty
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Hello, World!");
         }
     }
 }
