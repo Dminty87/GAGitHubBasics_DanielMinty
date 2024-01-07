@@ -10,7 +10,11 @@ namespace GAGitHubBasics_DanielMinty
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, Professor!");
+            Console.WriteLine("My name is Daniel Minty.");
+            Console.WriteLine("I don't know what I want to learn.");
+
+            Console.ReadLine();
         }
     }
 }
